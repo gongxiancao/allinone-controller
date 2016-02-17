@@ -1,1 +1,1 @@
-# framework-seneca-controller
+# framework-controller
