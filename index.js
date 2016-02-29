@@ -1,5 +1,4 @@
-var _ = require('lodash'),
-  fs = require('fs'),
+var fs = require('fs'),
   async = require('async'),
   pathUtil = require('path');
 
