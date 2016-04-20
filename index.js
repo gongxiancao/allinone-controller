@@ -1,8 +1,9 @@
 var fs = require('fs'),
   async = require('async'),
+  Promise = require('bluebird'),
   pathUtil = require('path');
 
-module.exports = function (done) {
+function lift (done) {
   var self = this;
 
   var controllers = self.controllers = {};
@@ -29,3 +30,5 @@ module.exports = function (done) {
     }, done);
   });
 };
+
+module.exports = Promise.promisify(lift);
