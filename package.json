@@ -1,5 +1,5 @@
 {
-  "name": "allinone-controller",
+  "name": "ofa-controller",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gongxiancao/allinone-controller.git"
+    "url": "git+https://github.com/gongxiancao/ofa-controller.git"
   },
   "author": "gongxiancao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gongxiancao/allinone-controller/issues"
+    "url": "https://github.com/gongxiancao/ofa-controller/issues"
   },
-  "homepage": "https://github.com/gongxiancao/allinone-controller#readme",
+  "homepage": "https://github.com/gongxiancao/ofa-controller#readme",
   "dependencies": {
     "async": "1.5.2",
     "bluebird": "3.3.5"
