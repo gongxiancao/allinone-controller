@@ -1,5 +1,5 @@
 {
-  "name": "framework-controller",
+  "name": "allinone-controller",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gongxiancao/framework-controller.git"
+    "url": "git+https://github.com/gongxiancao/allinone-controller.git"
   },
   "author": "gongxiancao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gongxiancao/framework-controller/issues"
+    "url": "https://github.com/gongxiancao/allinone-controller/issues"
   },
-  "homepage": "https://github.com/gongxiancao/framework-controller#readme",
+  "homepage": "https://github.com/gongxiancao/allinone-controller#readme",
   "dependencies": {
     "async": "1.5.2",
     "bluebird": "3.3.5"
